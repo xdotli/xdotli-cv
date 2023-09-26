@@ -1,6 +1,6 @@
 export const contentData = [
   {
-    title: "Work Experience",
+    title: "Work Experiences",
     items: [
       {
         title: "Software Engineer Intern at Dolby Laboratories",
