@@ -1,30 +1,42 @@
 export const generalData = {
-  name: "John Doe",
-  avatar: "https://github.com/ibelick.png",
-  jobTitle: "Senior Front-End Developer",
-  website: "https://www.julienthibeaut.xyz",
+  name: "Xiangyi Li",
+  avatar: "/profile.jpg",
+  jobTitle: "Software Engineer, Student",
+  website: "https://www.xiangyi.li",
   about:
-    "Hey there! I'm John, a senior front-end developer with 10 years of experience in web development.",
+    "Hi, it's Xiangyi Li! I'm curretnly a Master student at SJSU. \
+    I've had experiences in areas including full-stack development, cloud native development, \
+    windows development, and machine learning. Check out my ReadCV or GitHub for more! ",
   contacts: [
     {
       label: "Email",
-      value: "john.doe@gmail.com",
-      href: "mailto:john.doe@gmail.com",
+      value: "lixian9yi@gmail.com",
+      href: "mailto:lixian9yi@gmail.com",
     },
     {
-      label: "Twitter",
-      value: "ibelick",
-      href: "https://twitter.com/ibelick",
+      label: "Resume",
+      value: "Xiangyi_li_resume.pdf",
+      href: "https://github.com/l1xiangyi/xiangyi.li/blob/resume/Xiangyi_li_resume.pdf",
     },
     {
       label: "Github",
-      value: "ibelick",
-      href: "https://github.com/ibelick",
+      value: "l1xiangyi",
+      href: "https://github.com/l1xiangyi",
+    },
+    {
+      label: "LinkedIn",
+      value: "l1xiangyi",
+      href: "https://www.linkedin.com/in/l1xiangyi/",
     },
     {
       label: "Read.CV",
-      value: "ibelick",
-      href: "https://read.cv/ibelick",
+      value: "xdotli",
+      href: "https://read.cv/xdotli",
+    },
+    {
+      label: "Twitter",
+      value: "xdotli",
+      href: "https://twitter.com/xdotli",
     },
   ],
 };
