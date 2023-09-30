@@ -16,7 +16,7 @@ export const generalData = {
     {
       label: "Resume",
       value: "Xiangyi_li_resume.pdf",
-      href: "https://github.com/l1xiangyi/xiangyi.li/blob/resume/Xiangyi_li_resume.pdf",
+      href: "https://www.xiangyi.li/Xiangyi_LI_0926_SDE_print.pdf",
     },
     {
       label: "Github",
