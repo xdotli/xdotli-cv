@@ -4,7 +4,7 @@ export const generalData = {
   jobTitle: "Software Engineer, Student",
   website: "https://www.xiangyi.li",
   about:
-    "Hi, it's Xiangyi Li! I'm curretnly a Master student at SJSU. Founding a startup now. ",
+    "Hi, it's Xiangyi Li! I'm curretnly a Master student at SJSU. Head of engineering at Imaginix Inc. Building Kimi now.  ",
   contacts: [
     {
       label: "Email",
