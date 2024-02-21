@@ -18,8 +18,8 @@ export const generalData = {
     },
     {
       label: "Github",
-      value: "l1xiangyi",
-      href: "https://github.com/l1xiangyi",
+      value: "xdotli",
+      href: "https://github.com/xdotli",
     },
     {
       label: "LinkedIn",
