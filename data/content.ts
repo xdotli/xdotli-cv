@@ -4,8 +4,8 @@ export const contentData = [
     items: [
       {
         title: "Founding Engineer at Imaginix",
-        subTitle: "Shenzhen, China",
-        date: "02/23 - 04/23",
+        subTitle: "San Jose, US",
+        date: "12/23 - 02/24",
         description: "Built the majority of the Kimi app, including the frontend, backend, database, logging, AI engineering, and CI/CD.\
         Built the WebView layer for the Live2D model. Hand-crafted a suite of interview questions used to interview >25 people\
         "
