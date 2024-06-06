@@ -3,8 +3,7 @@ export const generalData = {
   avatar: "/profile.jpg",
   jobTitle: "Software Engineer, Student",
   website: "https://www.xiangyi.li",
-  about:
-    "Hi, it's Xiangyi Li! Incoming intern at Tesla",
+  about: "Hi, it's Xiangyi Li! Buildling some new products at Tesla",
   contacts: [
     {
       label: "Email",
@@ -14,7 +13,7 @@ export const generalData = {
     {
       label: "Resume",
       value: "Xiangyi_li_resume.pdf",
-      href: "https://www.xiangyi.li/Xiangyi_LI_0207.pdf",
+      href: "https://www.xiangyi.li/Xiangyi_LI.pdf",
     },
     {
       label: "Github",
