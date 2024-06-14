@@ -6,7 +6,7 @@ export const RESUME_DATA = {
   location: "San Jose, CA",
   locationLink: "https://www.google.com/maps/place/San+Jose",
   about:
-    "Student, software engineer, aspiring entrepreneur. Passionate about tech, design, marketing. Obsessed with automation and snappiness.  ",
+    "Student, software engineer, aspiring entrepreneur. Love tech, design, marketing. Obsessed with automation and snappiness. ",
   summary:
     "As a Software Engineer, I excel in both frontend and backend development. I have a proven track record of building scalable applications and leading projects from concept to completion. My expertise includes TypeScript, React, Node.js, and cloud-native technologies.",
   avatarUrl: "https://avatars.githubusercontent.com/u/51786539?s=800&v=4",
