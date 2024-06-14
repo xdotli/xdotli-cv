@@ -19,7 +19,7 @@ export default function Page() {
     <main className="container relative mx-auto scroll-my-12 overflow-auto p-4 print:p-12 md:p-16">
       <section className="mx-auto w-full max-w-2xl space-y-8 bg-white print:space-y-4">
         <div className="flex items-center justify-between">
-          <div className="flex-1 space-y-1.5">
+          <div className="flex-1 space-y-1.5 pr-1">
             <h1 className="text-2xl font-bold">{RESUME_DATA.name}</h1>
             <p className="max-w-md text-pretty font-mono text-sm text-muted-foreground print:text-[12px]">
               {RESUME_DATA.about}
@@ -114,7 +114,7 @@ export default function Page() {
                         {work.badges.map((badge) => (
                           <Badge
                             variant="secondary"
-                            className="align-middle text-xs print:text-[8px] print:leading-tight print:px-1 print:py-0.5"
+                            className="align-middle text-xs print:px-1 print:py-0.5 print:text-[8px] print:leading-tight"
                             key={badge}
                           >
                             {badge}
